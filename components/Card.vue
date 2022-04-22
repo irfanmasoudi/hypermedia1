@@ -21,11 +21,11 @@
   border: 2px solid lightgray;
 }
 .card:hover {
-  border: 2px solid blue;
+  border: 2px solid lightblue;
 }
 .btn-orange {
-  background-color: blue;
-  border: 2px solid blue;
+  background-color: lightblue;
+  border: 2px solid lightblue;
 }
 .card-image {
   background-position: center;

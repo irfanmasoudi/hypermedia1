@@ -12,7 +12,7 @@ export default async (models) => {
             name: "Putih",
             breed: "Anggora",
             description: "Details  putih",
-            img: "https://www.thesprucepets.com/thmb/IYaG0ElLFoOJ26Rtp-5CpefS0Jw=/1459x1459/smart/filters:no_upscale()/twenty20_e47b3798-dd9b-40b1-91ef-1d820337966e-5aa3f798642dca00363b0df1.jpg",
+            img: "https://www.thehappycatsite.com/wp-content/uploads/2017/12/White-Cat-HC-long.jpg",
         },
         {
             name: "Coklat",
