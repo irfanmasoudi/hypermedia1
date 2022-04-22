@@ -35,7 +35,7 @@ async function initializeDatabaseConnection() {
 const pageContentObject = {
     index: {
         title: "Homepage",
-        image: "https://fs.i3lab.group/hypermedia/images/index.jpeg",
+        image: "https://media-exp1.licdn.com/dms/image/C4D03AQGy4BkyfJ12eQ/profile-displayphoto-shrink_800_800/0/1645187902569?e=1655942400&v=beta&t=YXPv8Ufd7lVRlbhQ-Q5ZalVp9zESTj_fzQv-ZM6yPtY",
         description: `Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis et tincidunt elit, in finibus elit. Aliquam nec posuere sem, at faucibus erat. Suspendisse iaculis lorem id odio placerat bibendum. Suspendisse potenti. Sed quis efficitur erat. Pellentesque non velit ipsum. Maecenas finibus felis a magna auctor finibus. Mauris tincidunt nibh sit amet ante consectetur, non cursus elit feugiat.
         Integer vitae elit at nunc lacinia egestas. Etiam nec sagittis lorem. Phasellus consectetur mauris eget neque posuere, vitae sagittis massa congue. Etiam vitae eleifend odio, sit amet tempus ex. Ut semper feugiat erat, id consequat elit volutpat sed. Curabitur vel arcu at risus vehicula blandit in ut nunc. In nec pellentesque tellus. Maecenas vitae purus lacinia, tristique elit vitae, interdum est. Ut feugiat nulla et vestibulum efficitur. Suspendisse potenti. Duis ex dolor, vestibulum a leo eu, dapibus elementum ipsum. Curabitur euismod rhoncus nulla ac interdum. Mauris vulputate viverra scelerisque. Mauris ullamcorper tempus eros.`
     },

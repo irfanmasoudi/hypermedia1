@@ -31,7 +31,7 @@
 
 <style scoped>
 .header {
-  background: orange;
+  background: blue;
 }
 .logo {
   color: white;
