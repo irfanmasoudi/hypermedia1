@@ -26,7 +26,7 @@
         </div>
       </div>
       <div class="col-lg-4 offset-lg-1 p-0 overflow-hidden shadow-lg">
-        <img class="rounded-lg-3" :src="img" alt="" width="" />
+        <img class="rounded-lg-3" :src="img" alt="" width="300px" />
       </div>
     </div>
   </div>

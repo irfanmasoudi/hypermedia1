@@ -53,7 +53,7 @@ export default {
     // Workaround to avoid enforcing hard-coded localhost:3000: https://github.com/nuxt-community/axios-module/issues/308
     //baseURL: 'https://lesson15-github.herokuapp.com'
     baseURL: 'https://irfanmasudi.herokuapp.com'
-    //baseURL: 'http://localhost:3000'
+    // baseURL: 'http://localhost:3000'
   },
 
   // Build Configuration: https://go.nuxtjs.dev/config-build

@@ -4,7 +4,7 @@ const { Sequelize, DataTypes } = require("sequelize")
 const initialize = require('./initialize').default
 app.use(express.json())
 
-//const database = new Sequelize("postgres://irfanmasudi:irfanmasudi@localhost:5432/hypermedia")
+// const database = new Sequelize("postgres://irfanmasudi:irfanmasudi@localhost:5432/hypermedia")
 
 const pg = require('pg')
 pg.defaults.ssl = true
